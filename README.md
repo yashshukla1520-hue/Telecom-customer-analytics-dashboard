@@ -54,6 +54,15 @@ Data preparation involved:
 - Data validation
 - Data quality assessment
 
+## Data Quality-
+
+- The dataset contains approximately 5,000 missing values in the `last_payment_date` column.
+- These values were preserved rather than imputed because they may represent customers with no recorded payment activity or inactive accounts.
+- Date-based analyses were performed only on records with valid payment dates.
+- The dashboard includes a data quality analysis page to highlight this limitation and ensure transparent reporting.
+
+
+
 ---
 
 # 📊 Dashboard Pages
