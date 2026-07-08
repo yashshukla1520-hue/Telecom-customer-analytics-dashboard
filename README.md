@@ -205,21 +205,6 @@ Dashboard Pages
 - Data Quality Assessment
 
 
-
----
-
-# 📁 Repository Structure
-
-```
-telecom-customer-analytics-dashboard/
-
-│── Telecom_Customer_Analytics.pbix
-│── README.md
-│── Dataset/
-│── Screenshots/
-│── SQL Queries/
-```
-
 ---
 
 # 🔮 Future Enhancements
