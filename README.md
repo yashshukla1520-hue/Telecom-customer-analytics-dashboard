@@ -199,10 +199,47 @@ Instead of replacing missing dates with artificial values, the project preserved
 Dashboard Pages
 
 - Executive Dashboard
+<img width="1346" height="732" alt="Screenshot 2026-07-08 230214" src="https://github.com/user-attachments/assets/1828bbbb-a450-4898-b78b-80946f9e5e74" />
 - Customer & Churn Analysis
+<img width="1313" height="552" alt="Screenshot 2026-07-08 230230" src="https://github.com/user-attachments/assets/cf131a78-29e3-4f36-a7e1-d7b95aaa355f" />
 - Revenue & Customer Behaviour
+<img width="1336" height="712" alt="Screenshot 2026-07-08 230625" src="https://github.com/user-attachments/assets/d9327d0c-c3f5-4fa1-8fe2-b26697faca45" />
 - Payment Analysis
-- Data Quality Assessment
+<img width="1353" height="707" alt="Screenshot 2026-07-08 230832" src="https://github.com/user-attachments/assets/229d0415-3038-4eae-8a36-b2381bfbf615" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
