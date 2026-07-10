@@ -204,8 +204,9 @@ Dashboard Pages
 <img width="1313" height="552" alt="Screenshot 2026-07-08 230230" src="https://github.com/user-attachments/assets/cf131a78-29e3-4f36-a7e1-d7b95aaa355f" />
 - Revenue & Customer Behaviour
 <img width="1336" height="712" alt="Screenshot 2026-07-08 230625" src="https://github.com/user-attachments/assets/d9327d0c-c3f5-4fa1-8fe2-b26697faca45" />
-- Payment Analysis
-<img width="1353" height="707" alt="Screenshot 2026-07-08 230832" src="https://github.com/user-attachments/assets/229d0415-3038-4eae-8a36-b2381bfbf615" />
+- Data quality assessment 
+<img width="1370" height="727" alt="Screenshot 2026-07-10 145145" src="https://github.com/user-attachments/assets/f5a3ff5c-6a8b-449d-b44a-465ebb2d8308" />
+
 
 
 
