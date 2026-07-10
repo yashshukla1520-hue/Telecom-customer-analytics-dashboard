@@ -199,11 +199,14 @@ Instead of replacing missing dates with artificial values, the project preserved
 Dashboard Pages
 
 - Executive Dashboard
-<img width="1346" height="732" alt="Screenshot 2026-07-08 230214" src="https://github.com/user-attachments/assets/1828bbbb-a450-4898-b78b-80946f9e5e74" />
+<img width="1292" height="728" alt="Screenshot 2026-07-10 110532" src="https://github.com/user-attachments/assets/e0f40043-0c6a-4a6b-a134-6c972596a9b7" />
+
 - Customer & Churn Analysis
-<img width="1313" height="552" alt="Screenshot 2026-07-08 230230" src="https://github.com/user-attachments/assets/cf131a78-29e3-4f36-a7e1-d7b95aaa355f" />
+<img width="1282" height="606" alt="Screenshot 2026-07-10 110550" src="https://github.com/user-attachments/assets/07a4f4e7-ec64-49b1-aad3-f01728449c98" />
+
 - Revenue & Customer Behaviour
-<img width="1336" height="712" alt="Screenshot 2026-07-08 230625" src="https://github.com/user-attachments/assets/d9327d0c-c3f5-4fa1-8fe2-b26697faca45" />
+<img width="1286" height="722" alt="Screenshot 2026-07-10 110602" src="https://github.com/user-attachments/assets/c170f646-c87d-41e3-a984-0894b2638e21" />
+
 - Data quality assessment 
 <img width="1370" height="727" alt="Screenshot 2026-07-10 145145" src="https://github.com/user-attachments/assets/f5a3ff5c-6a8b-449d-b44a-465ebb2d8308" />
 
